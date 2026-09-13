@@ -6,3 +6,8 @@ sources:
     tables:
       - name: bike
       - name: weather
+  - name: btc
+    database: btc
+    schema: btc_schema
+    tables:
+      - name: btc
